@@ -1,0 +1,15 @@
+certifi==2022.12.7
+charset-normalizer==2.1.1
+dropbox==11.36.0
+grpcio==1.48.1
+grpcio-tools==1.48.1
+idna==3.4
+Pillow==9.3.0
+ply==3.11
+protobuf==3.19.5
+python-dotenv==0.21.0
+requests==2.28.1
+six==1.16.0
+stability-sdk==0.3.1
+stone==3.3.1
+urllib3==1.26.13
