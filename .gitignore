@@ -2,3 +2,5 @@
 venv/
 tmp/*
 tmp-dreams/*
+
+.DS_Store
